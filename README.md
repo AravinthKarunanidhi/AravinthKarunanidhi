@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+Hey there -- I'm Aravinth! I'm a software developer with 7+ years of front end development experience.
 <!--
 **AravinthKarunanidhi/AravinthKarunanidhi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
